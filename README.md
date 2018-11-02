@@ -1,6 +1,4 @@
-# regression-house-prices
-
-House Prices: Regression
+House price prediction with XGBoost
 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
